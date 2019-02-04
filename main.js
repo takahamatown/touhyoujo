@@ -8,7 +8,7 @@ function main() {
 	var lng = $.cookie('touhyoujyo_lng');
 	var zoom = $.cookie('touhyoujyo_zoom');
 	
-	var latlng = [34.927584, 136.987710];
+	var latlng = [35.487997, 135.546263];
 
 	if (lat != null && lng != null) {
 		latlng = [lat, lng];
